@@ -27,6 +27,9 @@ public class HelloPoop {
             System.out.println("I want burritos");
 
         }
+        else {
+            System.out.println("I'll have whatever");
+        }
     }
 
 }
